@@ -1,0 +1,17 @@
+[2023-03-21 10:16:41] [WARNING]: 恢复会话失败: exchange_emp failed: 16 , 尝试使用正常流程登录. 
+[2023-03-21 10:16:56] [ERROR]: 获取T544时出现问题: Post "https://captcha.go-cqhttp.org/sdk/dandelion/energy": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 
+[2023-03-21 10:16:57] [WARNING]: 登录失败: 当前QQ版本过低，请升级至最新版本后再登录。点击进入下载页面 Code: 235 
+[2023-03-21 10:16:57] [WARNING]: 请删除 device.json 后重试. 
+[2023-03-21 10:18:31] [WARNING]: 登录失败: 当前QQ版本过低，请升级至最新版本后再登录。点击进入下载页面 Code: 235 
+[2023-03-21 10:18:31] [WARNING]: 请删除 device.json 后重试. 
+[2023-03-21 10:19:16] [WARNING]: 登录失败: 当前QQ版本过低，请升级至最新版本后再登录。点击进入下载页面 Code: 235 
+[2023-03-21 10:19:16] [WARNING]: 请删除 device.json 后重试. 
+[2023-03-21 10:20:25] [WARNING]: 登录失败: 当前QQ版本过低，请升级至最新版本后再登录。点击进入下载页面 Code: 235 
+[2023-03-21 10:20:25] [WARNING]: 请删除 device.json 后重试. 
+[2023-03-21 10:28:53] [WARNING]: 登录失败: 当前QQ版本过低，请升级至最新版本后再登录。点击进入下载页面 Code: 235 
+[2023-03-21 10:28:53] [WARNING]: 请删除 device.json 后重试. 
+[2023-03-21 10:37:07] [WARNING]: 登录失败: 请使用手Q扫描二维码或短信登录。 Code: 238 
+[2023-03-21 10:37:39] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2023-03-21 10:38:27] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-21 10:38:43] [WARNING]: 警告: 长消息响应延迟为 2025ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2023-03-21 10:40:24] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
