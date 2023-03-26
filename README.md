@@ -9,3 +9,9 @@
 ## Documentation
 
 See [Docs](https://v2.nonebot.dev/)
+
+---
+
+## 命令大全
+
+1./replay <任意文字>
